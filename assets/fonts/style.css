@@ -2,3 +2,7 @@
    font-family: 'din-light';
    src: url('din-light/font.ttf');
 }
+@font-face {
+   font-family: 'din-medium';
+   src: url('din-medium/font.ttf');
+}

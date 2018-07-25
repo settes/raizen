@@ -27,7 +27,7 @@ body {
   font-size: 0.875rem;
 }
 .display-5 {
-  font-family: 'din-light';
+  font-family: 'din-medium';
   font-size: 1.4rem;
 }
 .display-7 {
@@ -979,6 +979,10 @@ body {
   text-align: justify;
   color: #000000;
 }
+.cid-qNIBUbBXm9 .mbr-text,
+.cid-qNIBUbBXm9 .mbr-section-btn B {
+  color: #000000;
+}
 .cid-qTLj4djdo7 {
   padding-top: 80px;
   padding-bottom: 0px;
@@ -1007,7 +1011,7 @@ body {
 }
 @media (max-width: 767px) {
   .cid-qTLj4djdo7 .mbr-text {
-    text-align: bottom;
+    text-align: justify;
   }
 }
 .cid-qTLj4djdo7 .media-container-row {
