@@ -101,7 +101,7 @@
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)",
               "background-attachment": "scroll",
-              "background-position": "77% 97%"
+              "background-position": "78%"
             },
             ".media-content .btn-bgr": {
               "z-index": "0"
