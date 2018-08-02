@@ -940,7 +940,9 @@ body {
   display: none;
 }
 .cid-qNIBUbBXm9 {
-  background-image: url("../../../assets/images/backgroundhome-2000x9010.jpg");
+  padding-top: 80px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/backhomerai-2000x901.jpg");
   background-attachment: scroll;
   background-position: 78%;
 }
@@ -957,7 +959,7 @@ body {
   .cid-qNIBUbBXm9 .mbr-figure {
     padding-left: 1rem;
     padding-top: 7rem;
-    padding-bottom: 4rem;
+    padding-bottom: 0rem;
   }
 }
 @media (max-width: 991px) {
